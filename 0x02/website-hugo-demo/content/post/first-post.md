@@ -1,8 +1,10 @@
----
 title: "First Post"
+<<<<<<< HEAD
 date: 2022-05-05T12:29:57-03:00
+=======
+date: 2022-05-03T08:29:57-03:00
+>>>>>>> f49681b4af1cd6933e4a69db0376362f9d1c30c1
 draft: true
----
 
 # README for "Awesome Inc." Website
 
