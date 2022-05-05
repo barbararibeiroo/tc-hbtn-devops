@@ -1,0 +1,18 @@
+O que é DevOps ? Quais beneficios em adotar DevOps nas empresas ?
+R: é um conjunto de práticas de integração entre equipes de desenvolvimento de software, operações e segurança, que tem como objetivo gerar valor ao cliente.
+A principal prática é a adoção de processos automatizados para produção rápida e segura de aplicativos e serviços. Maior eficiência nas operações, Fluidez de comunicação entre equipes, Redução de custos de TI e Maior satisfação de clientes.
+
+Quais são os pilares da cultura DevOps ? O que é CALMS ?
+R: Comunicação, Colaboração, Automação e Monitoramento. O CALMS é um acrônimo para Culture (Cultura), Automation (Automação), Lean (Metodologia Lean), Measurement (Mensuração) e Sharing (Compartilhamento).
+
+O que faz um Engenheiro DevOps ?
+R: Introduz processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo de vida do desenvolvimento de um software, desde a criação do código e a implantação até as etapas de manutenção e atualização.
+
+O que é DevSecOps?
+R: DevSecOps, abreviação de desenvolvimento, segurança e operações, automatiza a integração da segurança em todas as fases do ciclo de vida de desenvolvimento de software, desde o projeto inicial até a integração, teste, implementação e entrega de software.
+
+Principais ferramentas OpenSource para DevOps
+R: Gitlab, Puppet, Ansible, Jenkins, Vagrant, oVirt, Docker, Zabbix.
+
+O que é CI/CD: integração e entrega contínuas ?
+R: Entrega contínua ou CD, por sua vez, reúne a integração contínua e a testagem que podem ser agrupados em contêineres e depois colocado em produção. Ou seja, ele ajunta esses códigos e testes realizados, e coloca-os em produção de forma automatizada.
